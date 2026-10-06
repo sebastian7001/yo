@@ -1,0 +1,54 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+.env
+
+# =====================
+# JavaScript / Node.js
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+dist/
+.env
+.env.local
+.env.*.local
+
+# =====================
+# PHP
+# =====================
+vendor/
+composer.lock
+*.log
+
+# =====================
+# Web / General
+# =====================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# =====================
+# IDEs y editores
+# =====================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
